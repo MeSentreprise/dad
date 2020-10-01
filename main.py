@@ -6,7 +6,7 @@ import os
 
 
 
-
+#Check
 Papa=discord.Client()
 Papa= commands.Bot(command_prefix="/")
 
